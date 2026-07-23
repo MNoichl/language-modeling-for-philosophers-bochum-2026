@@ -132,10 +132,10 @@ format:
 
 # {layout="exhibit" .gp-exhibit-xl data-gp-section="Topic Models"}
 
-<iframe data-src="https://journals.openedition.org/oeconomia/15513#abstract-15513-en" title="Oeconomia article"></iframe>
+<iframe src="images/petrovich-et-al-sophis-2026.pdf" title="Petrovich et al. 2026 SOPHIS paper"></iframe>
 
 ::: {.gp-embed-fallback}
-[Open the article](https://journals.openedition.org/oeconomia/15513#abstract-15513-en)
+[Open Petrovich et al. 2026](images/petrovich-et-al-sophis-2026.pdf)
 :::
 
 
