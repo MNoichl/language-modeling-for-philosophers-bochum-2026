@@ -132,15 +132,6 @@ format:
 
 # {layout="exhibit" .gp-exhibit-xl data-gp-section="Topic Models"}
 
-<iframe src="images/petrovich-et-al-sophis-2026.pdf" title="Petrovich et al. 2026 SOPHIS paper"></iframe>
-
-::: {.gp-embed-fallback}
-[Open Petrovich et al. 2026](images/petrovich-et-al-sophis-2026.pdf)
-:::
-
-
-# {layout="exhibit" .gp-exhibit-xl data-gp-section="Topic Models"}
-
 <iframe src="images/barron-et-al-individuals-institutions-and-innovation-in-the-debates-of-the-french-revolution.pdf" title="Barron et al. paper"></iframe>
 
 ::: {.gp-embed-fallback}
@@ -214,7 +205,7 @@ format:
 
 * BERT and GPTs use the same basic machinery.
 * **BERT:** bidirectional encoder representations from transformers.
-* Look both back and forth in text. Get embeddings.
+* **Purpose of BERT:** embeddings and fast language tasks. [SOPHIS](#){.opens-modal data-modal-type="iframe" data-modal-url="images/petrovich-et-al-sophis-2026.pdf" data-modal-navblock="true"}
 * **GPTs:** decoder-only transformers.
 * GPTs predict only ahead & generate text.
 
