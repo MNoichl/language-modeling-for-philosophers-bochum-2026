@@ -65,7 +65,7 @@ format:
 ::: {.gp-link-panel}
 <span class="gp-label">Live slides</span>
 
-[Open the slide deck](https://mnoichl.github.io/language-modeling-for-philosophers-bochum-2026/){.gp-primary-link}
+[tinyurl.com/llm-bochum](https://tinyurl.com/llm-bochum){.gp-primary-link}
 
 [mnoichl.github.io/language-modeling-for-philosophers-bochum-2026](https://mnoichl.github.io/language-modeling-for-philosophers-bochum-2026/){.gp-url}
 :::
