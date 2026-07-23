@@ -265,6 +265,8 @@ format:
 </div>
 </figure>
 
+<div class="oa-atlas-link"><a href="https://huggingface.co/spaces/MaxNoichl/oa-atlas">huggingface.co/spaces/MaxNoichl/oa-atlas</a></div>
+
 ::: aside
 @singhSciRepEvalMultiFormatBenchmark2023; @mcinnesUMAPUniformManifold2018; @debruinPyAlex2023
 :::
