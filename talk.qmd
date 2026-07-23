@@ -139,6 +139,15 @@ format:
 :::
 
 
+# {layout="exhibit" .gp-exhibit-xl data-gp-section="Topic Models"}
+
+<iframe src="images/jing-et-al-sameness-entices-novelty-enchants-2025.pdf" title="Jing et al. 2025 paper"></iframe>
+
+::: {.gp-embed-fallback}
+[Open Jing et al. 2025](images/jing-et-al-sameness-entices-novelty-enchants-2025.pdf)
+:::
+
+
 # Topic Models, Limits {layout="bullets" data-gp-section="Topic Models"}
 
 * Topic models are the hammer of language modeling.[Mallet](#){.opens-modal data-modal-type="iframe" data-modal-url="http://mallet.cs.umass.edu" data-modal-navblock="true"}
